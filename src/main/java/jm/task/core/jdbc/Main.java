@@ -17,6 +17,5 @@ public class Main {
 //        userDao.getAllUsers();
 //        userDao.out.println(userDaoJDBC.getAllUsers());
 
-
     }
 }
