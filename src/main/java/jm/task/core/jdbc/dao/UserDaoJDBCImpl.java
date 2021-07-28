@@ -31,7 +31,7 @@ public class UserDaoJDBCImpl implements UserDao {
     }
 
     public void dropUsersTable() {
-        String sql = "DROP TABLE users;";
+        String sql = "DROP TABLE  users;";
 
         try (Statement statement = util.getConnection().createStatement();) {
 
@@ -71,7 +71,7 @@ public class UserDaoJDBCImpl implements UserDao {
 
     public List<User> getAllUsers() {
         String sql = "SELECT * FROM users;";
-        ResultSet resultSet = null;
+        ResultSet resultSet;
         List<User> userList = new ArrayList<>();
         try (Statement statement = util.getConnection().createStatement();) {
 
