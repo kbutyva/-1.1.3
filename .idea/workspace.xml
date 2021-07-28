@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f347e1-3dc6-4550-b231-3bc5aee26579" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.54188484" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="JUnit.UserServiceTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jm.task.core.jdbc.Main" />
       <module name="TaskJDBC" />
@@ -115,8 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserServiceTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.UserServiceTest" />
         <item itemvalue="JUnit.UserServiceTest.cleanUsersTable" />
         <item itemvalue="JUnit.UserServiceTest.getAllUsers" />
         <item itemvalue="JUnit.UserServiceTest.saveUser" />
@@ -139,7 +135,7 @@
       <workItem from="1626876274381" duration="7395000" />
       <workItem from="1627020310282" duration="1839000" />
       <workItem from="1627376371824" duration="1414000" />
-      <workItem from="1627445707924" duration="777000" />
+      <workItem from="1627445707924" duration="1127000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1626875723044</created>
@@ -162,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627377173397</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1627446613622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627446613622</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1627446724757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627446724757</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

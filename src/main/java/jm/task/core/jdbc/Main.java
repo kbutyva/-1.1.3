@@ -9,12 +9,12 @@ public class Main {
         UserService userService = new UserServiceImpl();
 
 //        userService.createUsersTable();
- //       userService.dropUsersTable();
-//        userService.saveUser("Aylana", "Kuular", (byte) 2);
+//        userService.dropUsersTable();
+ //       userService.saveUser("Aylana", "Kuular", (byte) 2);
 //        userService.removeUserById(100);
  //       userService.cleanUsersTable();
 //        userService.getAllUsers();
-//        System.out.println(userDaoJDBC.getAllUsers());
+//        System.out.println(userService.getAllUsers());
 
     }
 }
